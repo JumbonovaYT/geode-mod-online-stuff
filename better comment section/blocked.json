@@ -1,3 +1,18 @@
 {
-  "users": [6412437,14781894,5966937,217757207,58344078,252065435,281052270,281045271,281651597,18165112,15798843,7348073,8537037,157923469,303850425,305363256]
+  "users": [6412437,14781894,5966937,217757207,58344078,252065435,281052270,281045271,281651597,18165112,15798843,7348073,8537037,157923469,303850425,305363256],
+  "botR": [
+    "thisll be level 1",
+    "thisll be level 2",
+    "thisll be level 3"
+  ],
+  "brainrotR": [
+    "skibi[dt]i|rizz|ohio|gya[ta]|m(ew|og)( |$|g?ing|g?er)|jelq|goon|sigma|gri(t{1,3}|d{1,3})y|fanum ?tax|[^a-z]edg(ed|ing)|[a-z]uzz|those ?who ?[a-z]{0,2}now|looksmax|freak([^a-z]|$|y)|(^|[^a-z])((ts ?)?pmo|dih)([^a-z]|$)|6 ?7|six ?sev",
+    "skibi[dt]i|rizz|ohio|gya[ta]|m(ew|og)( |$|g?ing|g?er)|jelq|goon|sigma|gri(t{1,3}|d{1,3})y|fanum ?tax|[^a-z]edg(ed|ing)|[a-z]uzz|tu{1,3}a{1,3}h{1,3}|those ?who ?[a-z]{0,2}now|looksmax|freak([^a-z]|$|y)|diddy|(^|[^a-z])((ts ?)?pmo|dih)([^a-z]|$)|chicken ?jocke|6 ?7|six ?sev",
+    "skibi[dt]i|rizz|ohio|gya[ta]|m(ew|og)( |$|g?ing|g?er)|jelq|goon|sigma|([^a-z]|^|baby|livvy)(gronk|dunne)|gri(t{1,3}|d{1,3})y|fanum ?tax|[^a-z]edg(ed|ing)|buckle ?my ?shoe|huzz|tu{1,3}a{1,3}h{1,3}|those ?who ?[a-z]{0,2}now|looksmax|freak([^a-z]|$|y)|diddy|(^|[^a-z])((ts ?)?pmo|dih)([^a-z]|$)|i'?m?.{0,5} ?(am)? ?ste{1,10}ve|chicken ?jocke|water ?bucket ?release|?yearn(ed)? ?for ?the ?mine|flint ?a?nd? ? stee|6 ?7|six ?sev"
+  ],
+  "adsR": [
+    "not made yet",
+    "not made yet",
+    "^\\d{3,10}$|( |^)((tr(y|ied)|see|go|attempt|build?t?|rate?|beat)(ing)?|test|enjoy|cilck|chea?c?k|look|plays?|(i|me) ?(upload|create?|made)(ed)? ?a?) ?(out|at)? ?(on)? (to)? ?(m(y|eh?)|this)? ?(new|recent|lat|first)?(est|er)? ?(le?ve?l?s?|lists?|map|deco|layout|pre ?v|\\W{0,2}\\d{3,10})( ?\\d{3,10})?|(maps?|le?ve?l?s?|ids?) ?(:|=|is|are){0,2} ?[^a-z0-9]{0,2} ?(\\d{3,10}|[a-z0-9 ]{1,20} by ?[a-z0-9_]{5,20})|(click|tap{1,3}|press|see|like?|go|chea?c?k|look)(ing)? ?(out|[a-z]{2})? ?(on)? ?(to)? ?(m(y|eh?))? ?(pfp|profile|name|user|icon|cube|bio|channel|yt|you ?tube|(button|yt|youtube) ?(top|right)|(new|recent|lat|last)?(est)? ?post)|sub(scribe?(ing)?)? ?(to|2)"
+  ]
 }
