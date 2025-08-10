@@ -6,9 +6,9 @@
     "(atch|ee|out|ver) ?\\Wja\\Wkalem\\W|\\Wja\\Wkalem\\W ?(is ?live|on youtube|now)|^qns was here$|read (the )?(most recent post on)? my profile( post)?"
   ],
   "brainrotR": [
-    "skibi[dt]i|rizz|ohio|gya[ta]|m(ew|og)( |$|g?ing|g?er)|jelq|goon|sigma|gri(t{1,3}|d{1,3})y|fanum ?tax|[^a-z]edg(ed|ing)|[a-z]uzz|those ?who ?[a-z]{0,2}now|looksmax|freak([^a-z]|$|y)|(^|[^a-z])((ts ?)?pmo|dih)([^a-z]|$)|6 ?7|six ?sev",
-    "skibi[dt]i|rizz|ohio|gya[ta]|m(ew|og)( |$|g?ing|g?er)|jelq|goon|sigma|gri(t{1,3}|d{1,3})y|fanum ?tax|[^a-z]edg(ed|ing)|[a-z]uzz|tu{1,3}a{1,3}h{1,3}|those ?who ?[a-z]{0,2}now|looksmax|freak([^a-z]|$|y)|diddy|(^|[^a-z])((ts ?)?pmo|dih)([^a-z]|$)|chicken ?jocke|6 ?7|six ?sev",
-    "skibi[dt]i|rizz|ohio|gya[ta]|m(ew|og)( |$|g?ing|g?er)|jelq|goon|sigma|([^a-z]|^|baby|livvy)(gronk|dunne)|gri(t{1,3}|d{1,3})y|fanum ?tax|[^a-z]edg(ed|ing)|buckle ?my ?shoe|huzz|tu{1,3}a{1,3}h{1,3}|those ?who ?[a-z]{0,2}now|looksmax|freak([^a-z]|$|y)|diddy|(^|[^a-z])((ts ?)?pmo|dih)([^a-z]|$)|i'?m?.{0,5} ?(am)? ?ste{1,10}ve|chicken ?jocke|water ?bucket ?release|flint ?a?nd? ? stee|6 ?7|six ?sev"
+    "skibi[dt]i|rizz|ohio|gya[ta]|m(ew|og)( |$|g?ing|g?er)|jelq|goon|sigma|gri(t{1,3}|d{1,3})y|fanum ?tax|[^a-z]edg(ed|ing)|[a-z]uzz|those ?who ?[a-z]{0,2}now|looksmax|freak([^a-z]|$|y)|(^|[^a-z])((ts ?)?pmo|dih)([^a-z]|$)|(\\.| |^)6 ?7|six ?sev",
+    "skibi[dt]i|rizz|ohio|gya[ta]|m(ew|og)( |$|g?ing|g?er)|jelq|goon|sigma|gri(t{1,3}|d{1,3})y|fanum ?tax|[^a-z]edg(ed|ing)|[a-z]uzz|tu{1,3}a{1,3}h{1,3}|those ?who ?[a-z]{0,2}now|looksmax|freak([^a-z]|$|y)|diddy|(^|[^a-z])((ts ?)?pmo|dih)([^a-z]|$)|chicken ?jocke|(\\.| |^)6 ?7|six ?sev",
+    "skibi[dt]i|rizz|ohio|gya[ta]|m(ew|og)( |$|g?ing|g?er)|jelq|goon|sigma|([^a-z]|^|baby|livvy)(gronk|dunne)|gri(t{1,3}|d{1,3})y|fanum ?tax|[^a-z]edg(ed|ing)|buckle ?my ?shoe|huzz|tu{1,3}a{1,3}h{1,3}|those ?who ?[a-z]{0,2}now|looksmax|freak([^a-z]|$|y)|diddy|(^|[^a-z])((ts ?)?pmo|dih)([^a-z]|$)|i'?m?.{0,5} ?(am)? ?ste{1,10}ve|chicken ?jocke|water ?bucket ?release|flint ?a?nd? ? stee|(\\.| |^)6 ?7|six ?sev"
   ],
   "adsR": [
     "not made yet",
