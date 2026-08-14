@@ -6,14 +6,15 @@
     "(atch|ee|out|ver) ?\\Wja\\Wkalem\\W|\\Wja\\Wkalem\\W ?(is ?live|on youtube|now)|^qns was here$|read (the )?(most recent post on)? my profile( post)?"
   ],
   "brainrotR": [
-    "(\\.| |^)6 ?7|six ?sev|skibi[dt]i|rizz|ohio|tuff|(er|s)max|m(ew|og)( |$|g?in|g?er)|unc|sigma|musta|mango|gya[ta]|plz?e?a?s?e? ?speed|[a-z]uzz",
-    "(\\.| |^)6 ?7|six ?sev|skibi[dt]i|rizz|ohio|tuff|(er|s)max|m(ew|og)( |$|g?in|g?er)|unc|sigma|musta|mango|gya[ta]|plz?e?a?s?e? ?speed|[a-z]uzz|those ?who ?[a-z]{0,2}now|[^a-z]goon",
-    "(\\.| |^)6 ?7|six ?sev|skibi[dt]i|rizz|ohio|tuff|(er|s)max|m(ew|og)( |$|g?in|g?er)|unc|sigma|musta|mango|gya[ta]|plz?e?a?s?e? ?speed|[a-z]uzz|those ?who ?[a-z]{0,2}now|[^a-z]edg(ed|ing)|jelq|goon|ken ?jocke"
+    "(\\.| |^)6 ?7|six ?sev|skibi[dt]i|rizz|[a-z]maxx?( |$|g?in|g?er|sigma|musta|mango|gya[ta]|[a-z]uzz|[^a-z]edg(ed|ing)|goon",
+    "(\\.| |^)6 ?7|six ?sev|skibi[dt]i|rizz|[a-z]maxx?|m(ew|og)( |$|g?in|g?er)|sigma|musta|mango|gya[ta]|[a-z]uzz|[^a-z]edg(ed|ing)|jelq|goon",
+    "(\\.| |^)6 ?7|six ?sev|skibi[dt]i|rizz|[a-z]maxx?|m(ew|og)( |$|g?in|g?er)|sigma|musta|mango|gya[ta]|[a-z]uzz|[^a-z]edg(ed|ing)|jelq|goon|those ?who ?[a-z]{0,2}now"
   ],
   "adsR": [
-    "not made yet",
+    "(([abcdfghijlmnopqruvwxyz]|[^b]est)|my) ?(le?ve?l|profile|post)",
     "not made yet",
     "^\\d{3,10}$|( |^)((tr(y|ied)|see|go|attempt|build?t?|rate?|beat)(ing)?|test|enjoy|click|chea?c?k|look|plays?|(i|me) ?(upload|create?|made)(ed)? ?a?) ?(out|at)? ?(on)? (to)? ?(m(y|eh?))? ?(new|recent|lat|first)?(est|er)? ?(le?ve?l?s?|lists?|map|deco|layout|pre ?v|\\W{0,2}\\d{3,10})( ?\\d{3,10})?|(maps?|le?ve?l?s?|ids?) ?(:|=|is|are){0,2} ?[^a-z0-9]{0,2} ?(\\d{3,10}|[a-z0-9 ]{1,20} by ?[a-z0-9_]{5,20})|(click|tap{1,3}|press|see|like?|go|chea?c?k|look)(ing)? ?(out|[a-z]{2})? ?(on)? ?(to)? ?(m(y|eh?))? ?(pfp|profile|name|user|icon|cube|bio|channel|yt|you ?tube|(button|yt|youtube) ?(top|right)|(new|recent|lat|last)?(est)? ?post)|subb?(scribe?)?(ing)? ?(to|2)"
   ],
   "ver": 1
+  "modvers": [2]
 }
