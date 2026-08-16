@@ -11,8 +11,8 @@
     "(\\.| |^)6 ?7|six ?sev|skibi[dt]i|rizz|[a-z]maxx?|m(ew|og)( |$|g?in|g?er)|sigma|musta|mango|gya[ta]|[a-z]uzz|[^a-z]edg(ed|ing)|jelq|goon|those ?who ?[a-z]{0,2}now"
   ],
   "adsR": [
-    "([abcdfghijlmnopqruvwxyz]|[^b]est|my) ?(le?ve?l|profile|post)",
-    "([abcdfghijlmnopqruvwxyz]|[^br](a|e)st|my) ?(le?ve?l|profile|acc|post)|\\d{8,9}",
+    "([abcfhijlmnopqruvxyz]|[^br](a|e)st|my|ew|cent) ?(le?ve?l|list|profile|acc|post)",
+    "([abcfhijlmnopqruvxyz]|[^br](a|e)st|my|ew|cent) ?(le?ve?l|list|profile|acc|post)|\\d{8,9}",
     "^\\d{3,10}$|( |^)((tr(y|ied)|see|go|attempt|build?t?|rate?|beat)(ing)?|test|enjoy|click|chea?c?k|look|plays?|(i|me) ?(upload|create?|made)(ed)? ?a?) ?(out|at)? ?(on)? (to)? ?(m(y|eh?))? ?(new|recent|lat|first)?(est|er)? ?(le?ve?l?s?|lists?|map|deco|layout|pre ?v|\\W{0,2}\\d{3,10})( ?\\d{3,10})?|(maps?|le?ve?l?s?|ids?) ?(:|=|is|are){0,2} ?[^a-z0-9]{0,2} ?(\\d{3,10}|[a-z0-9 ]{1,20} by ?[a-z0-9_]{5,20})|(click|tap{1,3}|press|see|like?|go|chea?c?k|look)(ing)? ?(out|[a-z]{2})? ?(on)? ?(to)? ?(m(y|eh?))? ?(pfp|profile|name|user|icon|cube|bio|channel|yt|you ?tube|(button|yt|youtube) ?(top|right)|(new|recent|lat|last)?(est)? ?post)|subb?(scribe?)?(ing)? ?(to|2)"
   ],
   "ver": 1,
