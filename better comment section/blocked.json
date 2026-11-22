@@ -16,5 +16,5 @@
     "([bcfhijlmnopqruvxz]|[^br](a|e)st|my|ew|cent) ?(le?ve?l|list|profile|acc|post)|\\d{8,9}"
   ],
   "ver": 1,
-  "modvers": [2]
+  "modver": 2
 }
