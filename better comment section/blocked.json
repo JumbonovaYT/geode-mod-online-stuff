@@ -12,8 +12,8 @@
   ],
   "adsR": [
     "([bcfhijmopquvxz]|[^bri](a|e)st|my|ew|cent) ?(le?ve?l|lis|profil|acc|post)|\\d{8,9}",
-    "([bcfhijmopquvxz]|[^bri](a|e)st|my|ew|cent) ?(le?ve?l|list|profil|acc|post)|\\d{8,9}",
-    "([bcfhijmopquvxz]|[^bryi](a|e)st|my|ew|cent) ?(le?ve?l|list|profile|acc|post)|\\d{8,9}"
+    "([bcfhijmopquvxz]|[^bri](a|e)st|my|ew|cent) ?(le?ve?l|list|profil|acc|post)|[\\. ^]\\d{8,9}[\\. $]",
+    "([bcfhijmopquvxz]|[^bryi](a|e)st|my|ew|cent) ?(le?ve?l|list|profile|acc|post)|[\\. ^]\\d{8,9}[\\. $]"
   ],
   "ver": 1,
   "modvers": [2,3]
