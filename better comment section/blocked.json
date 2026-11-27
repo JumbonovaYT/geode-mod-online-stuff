@@ -11,9 +11,9 @@
     "(\\.| |^)6 ?7|six ?sev|skibi[dt]i|rizz|[a-z]maxx?|m(ew|og)( |$|g?in|g?er)|sigma|musta|mango|gya[ta]|[a-z]uzz|[^a-z]edg(ed|ing)|jelq|goon|those ?who ?[a-z]{0,2}now"
   ],
   "adsR": [
-    "([bcfhijmopquvxz]|[^bri](a|e)st|my|ew|cent) ?(le?v|lis|profil|acc|post)|\\d{8,9}",
-    "([bcfhijmopquvxz]|[^bri](a|e)st|my|ew|cent) ?(le?v|list|profil|acc|post)|\\d{8,9}",
-    "([bcfhijmopquvxz]|[^bryi](a|e)st|my|ew|cent) ?(le?ve?|list|profile|acc|post)|\\d{8,9}"
+    "([bcfhijmopquvxz]|[^bri](a|e)st|my|ew|cent) ?(le?ve?l|lis|profil|acc|post)|\\d{8,9}",
+    "([bcfhijmopquvxz]|[^bri](a|e)st|my|ew|cent) ?(le?ve?l|list|profil|acc|post)|\\d{8,9}",
+    "([bcfhijmopquvxz]|[^bryi](a|e)st|my|ew|cent) ?(le?ve?l|list|profile|acc|post)|\\d{8,9}"
   ],
   "ver": 1,
   "modvers": [2,3]
